@@ -1,2 +1,1 @@
-# demo
-this is just a demo file
+# Linear Regression
