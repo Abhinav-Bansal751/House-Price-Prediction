@@ -1,6 +1,6 @@
 # Linear Regression
   ## House Price Prediction Model
-  This project involves predicting house prices in California using machine learning models. The dataset includes various features such as `ocean_proximity`, `housing_median_age`, `total_rooms`, and more. The project utilizes both Linear Regression and Random Forest Regressor models to achieve a prediction accuracy of 81%
+  This project involves predicting house prices in California using machine learning models. The dataset includes various features such as `ocean_proximity`, `housing_median_age`, `total_rooms`, and more. The project utilizes both Linear Regression and Random Forest Regressor models to achieve a prediction accuracy of 81%..
   
   ## Introduction
 
