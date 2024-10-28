@@ -13,7 +13,7 @@ Link to Dataset :- [https://www.kaggle.com/datasets/camnugent/california-housing
 The dataset contains the following features:
 
 - `ocean_proximity`: Categorical feature indicating the proximity to the ocean.
-- `housing_median_age`: Median age of houses in the area.
+- `housing_median_age`: Median age of houses in the are
 - `total_rooms`: Total number of rooms in the house.
 - `total_bedrooms`: Total number of bedrooms in the house.
 - `population`: Population of the area.
