@@ -4,7 +4,7 @@
   
   ## Introduction
 
-This project aims to predict house prices in California using a dataset from Kaggle. The project involves Exploratory Data Analysis (EDA), feature scaling, and hyperparameter tuning to improve model performance. Both Linear Regression and Random Forest Regressor models are applied to evaluate their effectiveness in predicting house prices.
+This project aims to predict house prices in California using a dataset from Kaggle. The project involves Exploratory Data Analysis (EDA), feature scaling, and hyperparameter tuning to improve model performance. Both Linear Regression and Random Forest Regressor models are applied to evaluate their effectveness in predicting house prices.
 
 ## Dataset
 
